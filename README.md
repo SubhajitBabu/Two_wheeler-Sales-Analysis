@@ -108,9 +108,7 @@ The cleaned CSV was imported into Power BI, where the data was modeled and visua
 
 ### Dashboard Preview
 
-![Uploading dashboard.png…]()
-
-
+<img width="1267" height="719" alt="dashboard" src="https://github.com/user-attachments/assets/e6b366ef-dd46-4aad-b7fa-ea224b15f355" />
 
 
 
